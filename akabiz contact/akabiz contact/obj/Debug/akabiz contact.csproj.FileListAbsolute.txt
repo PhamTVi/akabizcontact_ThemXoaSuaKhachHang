@@ -1,0 +1,22 @@
+D:\DiThucTap\akabiz contact\akabiz contact\bin\Debug\akabiz contact.exe.config
+D:\DiThucTap\akabiz contact\akabiz contact\bin\Debug\akabiz contact.exe
+D:\DiThucTap\akabiz contact\akabiz contact\bin\Debug\akabiz contact.pdb
+D:\DiThucTap\akabiz contact\akabiz contact\obj\Debug\akabiz contact.csprojResolveAssemblyReference.cache
+D:\DiThucTap\akabiz contact\akabiz contact\obj\Debug\akabiz_contact.Form1.resources
+D:\DiThucTap\akabiz contact\akabiz contact\obj\Debug\akabiz_contact.Properties.Resources.resources
+D:\DiThucTap\akabiz contact\akabiz contact\obj\Debug\akabiz contact.csproj.GenerateResource.Cache
+D:\DiThucTap\akabiz contact\akabiz contact\obj\Debug\akabiz contact.exe
+D:\DiThucTap\akabiz contact\akabiz contact\obj\Debug\akabiz contact.pdb
+D:\DiThucTap\akabiz contact\akabiz contact\obj\Debug\akabiz contact.exe.licenses
+D:\DiThucTap\akabiz contact\akabiz contact\obj\Debug\akabiz_contact.XtraForm1.resources
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\bin\Debug\akabiz contact.exe.config
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\obj\Debug\akabiz contact.exe
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\obj\Debug\akabiz contact.pdb
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\obj\Debug\akabiz contact.csprojResolveAssemblyReference.cache
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\obj\Debug\akabiz_contact.Form1.resources
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\obj\Debug\akabiz_contact.Properties.Resources.resources
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\obj\Debug\akabiz_contact.XtraForm1.resources
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\obj\Debug\akabiz contact.csproj.GenerateResource.Cache
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\obj\Debug\akabiz contact.exe.licenses
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\bin\Debug\akabiz contact.exe
+D:\DiThucTap\New folder\akabiz contact\akabiz contact\bin\Debug\akabiz contact.pdb
